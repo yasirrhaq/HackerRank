@@ -10,7 +10,7 @@ This is my solutions to HackerRank problems using java, might not be the best so
 |Warmup|Easy|[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)|[AVeryBigSum.java](algorithms/AVeryBigSum.java)|
 |Warmup|Easy|[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|[DiagonalDifference.java](algorithms/DiagonalDifference.java)|
 |Warmup|Easy|[Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)|[PlusMinus.java](algorithms/PlusMinus.Java)|
-|Warmup|Easy|[Staircase](https://www.hackerrank.com/challenges/staircase/problem)|[Staircase.py](algorithms/Staircase.java)|
-|Warmup|Easy|[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|[MiniMaxSum.py](algorithms/MiniMaxSum.java)|
-|Warmup|Easy|[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|[BirthdayCakeCandles.py](algorithms/BirthdayCakeCandles.java)|
-|Warmup|Easy|[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)|[TimeConversion.py](algorithms/TimeConversion.java)|
+|Warmup|Easy|[Staircase](https://www.hackerrank.com/challenges/staircase/problem)|[Staircase.java](algorithms/Staircase.java)|
+|Warmup|Easy|[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|[MiniMaxSum.java](algorithms/MiniMaxSum.java)|
+|Warmup|Easy|[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|[BirthdayCakeCandles.java](algorithms/BirthdayCakeCandles.java)|
+|Warmup|Easy|[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)|[TimeConversion.java](algorithms/TimeConversion.java)|

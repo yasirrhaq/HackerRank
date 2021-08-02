@@ -14,3 +14,4 @@ This is my solutions to HackerRank problems using java, might not be the best so
 |Warmup|Easy|[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|[MiniMaxSum.java](algorithms/MiniMaxSum.java)|
 |Warmup|Easy|[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|[BirthdayCakeCandles.java](algorithms/BirthdayCakeCandles.java)|
 |Warmup|Easy|[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)|[TimeConversion.java](algorithms/TimeConversion.java)|
+|Implementation|Easy|[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|[GradingStudents.java](algorithms/GradingStudents.java)|

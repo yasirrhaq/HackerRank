@@ -1,5 +1,5 @@
 # HackerRank
-This is my solutions to HackerRank problems using java, might not be the best solution but at least i tried
+This is my solutions to [HackerRank](https://www.hackerrank.com) problems using java, might not be the best solution but at least i tried
 
 ## Algorithms
 | Subdomain | Difficulty | Challenge | Solution |

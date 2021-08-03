@@ -1,6 +1,10 @@
 # HackerRank
 This is my solutions to [HackerRank](https://www.hackerrank.com) problems using java, might not be the best solution but at least i tried
 
+Currently im doing:
+* [Algorithms](#algorithms)
+* [Java](#java)
+
 ## Algorithms
 | Subdomain | Difficulty | Challenge | Solution |
 |:---------:|:----------:|:---------:|:--------:|

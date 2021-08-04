@@ -21,6 +21,8 @@ Currently im doing:
 |Implementation|Easy|[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|[GradingStudents.java](algorithms/GradingStudents.java)|
 |Implementation|Easy|[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)|[AppleAndOrange.java](algorithms/AppleAndOrange.java)|
 |Implementation|Easy|[Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem)|[NumberLineJumps.java](algorithms/NumberLineJumps.java)|
+|Implementation|Easy|[Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)|[BreakingTheRecords.java](algorithms/BreakingTheRecords.java)|
+
 
 ## Java
 | Subdomain | Difficulty | Challenge | Solution |

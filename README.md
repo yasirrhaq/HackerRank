@@ -23,6 +23,7 @@ Currently im doing:
 |Implementation|Easy|[Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem)|[NumberLineJumps.java](algorithms/NumberLineJumps.java)|
 |Implementation|Easy|[Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)|[BreakingTheRecords.java](algorithms/BreakingTheRecords.java)|
 |Implementation|Easy|[Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem)|[SubarrayDivision.java](algorithms/SubArrayDivision.java)|
+|Implementation|Easy|[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)|[MigratoryBirds.java](algorithms/MigratoryBirds.java)|
 
 
 

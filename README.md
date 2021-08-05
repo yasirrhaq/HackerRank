@@ -25,9 +25,7 @@ Currently im doing:
 |Implementation|Easy|[Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem)|[SubarrayDivision.java](algorithms/SubArrayDivision.java)|
 |Implementation|Easy|[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)|[MigratoryBirds.java](algorithms/MigratoryBirds.java)|
 |Implementation|Easy|[Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem)|[BillDivision.java](algorithms/BillDivision.java)|
-
-
-
+|Implementation|Easy|[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)|[SalesByMatch.java](algorithms/SalesByMatch.java)|
 
 ## Java
 | Subdomain | Difficulty | Challenge | Solution |

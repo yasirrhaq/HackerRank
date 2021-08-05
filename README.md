@@ -26,6 +26,8 @@ Currently im doing:
 |Implementation|Easy|[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)|[MigratoryBirds.java](algorithms/MigratoryBirds.java)|
 |Implementation|Easy|[Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem)|[BillDivision.java](algorithms/BillDivision.java)|
 |Implementation|Easy|[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)|[SalesByMatch.java](algorithms/SalesByMatch.java)|
+|Implementation|Easy|[Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)|[CatsAndMouse.java](algorithms/CatsAndMouse.java)|
+
 
 ## Java
 | Subdomain | Difficulty | Challenge | Solution |

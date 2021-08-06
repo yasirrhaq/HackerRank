@@ -29,6 +29,7 @@ Currently im doing:
 |Implementation|Easy|[Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)|[CatsAndMouse.java](algorithms/CatsAndMouse.java)|
 |Implementation|Easy|[Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)|[DesignerPdfViewer.java](algorithms/DesignerPdfViewer.java)|
 |Implementation|Easy|[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)|[AngryProfessor.java](algorithms/AngryProfessor.java)|
+|Implementation|Easy|[The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|[TheHurdleRace.java](algorithms/TheHurdleRace.java)|
 
 
 

@@ -28,6 +28,7 @@ Currently im doing:
 |Implementation|Easy|[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)|[SalesByMatch.java](algorithms/SalesByMatch.java)|
 |Implementation|Easy|[Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)|[CatsAndMouse.java](algorithms/CatsAndMouse.java)|
 |Implementation|Easy|[Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)|[DesignerPdfViewer.java](algorithms/DesignerPdfViewer.java)|
+|Implementation|Easy|[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)|[AngryProfessor.java](algorithms/AngryProfessor.java)|
 
 
 

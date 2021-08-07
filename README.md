@@ -31,6 +31,7 @@ Currently im doing:
 |Implementation|Easy|[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)|[AngryProfessor.java](algorithms/AngryProfessor.java)|
 |Implementation|Easy|[The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|[TheHurdleRace.java](algorithms/TheHurdleRace.java)|
 |Implementation|Easy|[Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)|[FindDigits.java](algorithms/FindDigits.java)|
+|Implementation|Easy|[Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem)|[CutTheSticks.java](algorithms/CutTheSticks.java)|
 
 
 

@@ -33,6 +33,7 @@ Currently im doing:
 |Implementation|Easy|[Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)|[FindDigits.java](algorithms/FindDigits.java)|
 |Implementation|Easy|[Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem)|[CutTheSticks.java](algorithms/CutTheSticks.java)|
 |Implementation|Easy|[Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)|[JumpingOnTheClouds.java](algorithms/JumpingOnTheClouds.java)|
+|Implementation|Easy|[Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem)|[MinimumDistances.java](algorithms/MinimumDistances.java)|
 
 
 

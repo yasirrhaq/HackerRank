@@ -35,7 +35,8 @@ Currently im doing:
 |Implementation|Easy|[Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)|[JumpingOnTheClouds.java](algorithms/JumpingOnTheClouds.java)|
 |Implementation|Easy|[Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem)|[MinimumDistances.java](algorithms/MinimumDistances.java)|
 |Implementation|Easy|[Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)|[EqualizeTheArray.java](algorithms/EqualizeTheArray.java)|
-|Implementation|Easy|[Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem)|[HalloweenSale.java](algorithms/HalloweenSale.java)|
+|Implementation|Easy|[Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem)|[HalloweenSale.java](algorithms/HallowenSale.java)|
+|Implementation|Easy|[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)|[ChocolateFeast.java](algorithms/ChocolateFeast.java)|
 
 
 

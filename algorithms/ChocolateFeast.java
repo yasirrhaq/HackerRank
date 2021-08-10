@@ -12,18 +12,7 @@ import static java.util.stream.Collectors.toList;
 
 class Result {
 
-    /*
-     * Complete the 'chocolateFeast' function below.
-     *
-     * The function is expected to return an INTEGER.
-     * The function accepts following parameters:
-     *  1. INTEGER n
-     *  2. INTEGER c
-     *  3. INTEGER m
-     */
-
     public static int chocolateFeast(int n, int c, int m) {
-    // Write your code here
         int wrapper = n / c;
         int wrapperLeft = 0;
         

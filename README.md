@@ -37,6 +37,7 @@ Currently im doing:
 |Implementation|Easy|[Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)|[EqualizeTheArray.java](algorithms/EqualizeTheArray.java)|
 |Implementation|Easy|[Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem)|[HalloweenSale.java](algorithms/HallowenSale.java)|
 |Implementation|Easy|[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)|[ChocolateFeast.java](algorithms/ChocolateFeast.java)|
+|Implementation|Easy|[Service Lane](https://www.hackerrank.com/challenges/service-lane/problem)|[ServiceLane.java](algorithms/ServiceLane.java)|
 
 
 

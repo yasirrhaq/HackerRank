@@ -12,20 +12,17 @@ import static java.util.stream.Collectors.toList;
 
 class Result {
 
-    public static int findDigits(int n) {
-
-    int divisible = 0;
-    int num = n;
-    while(n!=0){
-        int digit = n%10;
-         n /=10;       
-        if(digit!=0 && (num%digit==0) ){
-            divisible++;
-        }     
+    public static long taumBday(long b, long w, long bc, long wc, long z) {
+        
+    long result =0;
+    if(bc>wc+z){
+        bc = wc+z;
+    }else if(wc>bc+z){
+        wc = bc+z;
     }
-    return divisible;
+    result = b * bc + w * wc;
+    return result;
     }
-
 }
 
 public class Solution {
@@ -37,9 +34,21 @@ public class Solution {
 
         IntStream.range(0, t).forEach(tItr -> {
             try {
-                int n = Integer.parseInt(bufferedReader.readLine().trim());
+                String[] firstMultipleInput = bufferedReader.readLine().replaceAll("\\s+$", "").split(" ");
 
-                int result = Result.findDigits(n);
+                long b = Long.parseLong(firstMultipleInput[0]);
+
+                long w = Long.parseLong(firstMultipleInput[1]);
+
+                String[] secondMultipleInput = bufferedReader.readLine().replaceAll("\\s+$", "").split(" ");
+
+                long bc = Long.parseLong(secondMultipleInput[0]);
+
+                long wc = Long.parseLong(secondMultipleInput[1]);
+
+                long z = Long.parseLong(secondMultipleInput[2]);
+
+                long result = Result.taumBday(b, w, bc, wc, z);
 
                 bufferedWriter.write(String.valueOf(result));
                 bufferedWriter.newLine();

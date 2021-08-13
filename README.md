@@ -56,3 +56,4 @@ Currently im doing:
 |Introduction|Easy|[Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem)|[JavaEndOfFile.java](java/JavaEndOfFile.java)|
 |Introduction|Easy|[Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)|[JavaStaticInitializerBlock.java](java/JavaStaticInitializerBlock.java)|
 |Introduction|Easy|[Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem)|[JavaIntToString.java](java/JavaIntToString.java)|
+|Introduction|Easy|[Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem)|[JavaDateAndTime.java](java/JavaDateAndTime.java)|

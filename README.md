@@ -39,6 +39,7 @@ Currently im doing:
 |Implementation|Easy|[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)|[ChocolateFeast.java](algorithms/ChocolateFeast.java)|
 |Implementation|Easy|[Service Lane](https://www.hackerrank.com/challenges/service-lane/problem)|[ServiceLane.java](algorithms/ServiceLane.java)|
 |Implementation|Easy|[Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/problem)|[TaumAndBday.java](algorithms/TaumAndBday.java)|
+|Implementation|Easy|[Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem)|[ViralAdvertising.java](algorithms/ViralAdvertising.java)|
 
 
 

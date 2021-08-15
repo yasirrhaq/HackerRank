@@ -59,3 +59,4 @@ Currently im doing:
 |Introduction|Easy|[Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem)|[JavaIntToString.java](java/JavaIntToString.java)|
 |Introduction|Easy|[Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem)|[JavaDateAndTime.java](java/JavaDateAndTime.java)|
 |Introduction|Easy|[Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem)|[JavaCurrencyFormatter.java](java/JavaCurrencyFormatter.java)|
+|Introduction|Easy|[Java Substring](https://www.hackerrank.com/challenges/java-substring/problem)|[JavaSubstring.java](java/JavaSubstring.java)|

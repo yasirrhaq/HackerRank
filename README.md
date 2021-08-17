@@ -61,3 +61,4 @@ Currently im doing:
 |Introduction|Easy|[Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem)|[JavaCurrencyFormatter.java](java/JavaCurrencyFormatter.java)|
 |Introduction|Easy|[Java Substring](https://www.hackerrank.com/challenges/java-substring/problem)|[JavaSubstring.java](java/JavaSubstring.java)|
 |Strings|Easy|[Java Substring](https://www.hackerrank.com/challenges/java-string-compare/problem)|[JavaSubstringComparisons.java](java/JavaSubstringComparisons.java)|
+|Strings|Easy|[Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem)|[JavaStringReverse.java](java/JavaStringReverse.java)|

@@ -62,3 +62,4 @@ Currently im doing:
 |Introduction|Easy|[Java Substring](https://www.hackerrank.com/challenges/java-substring/problem)|[JavaSubstring.java](java/JavaSubstring.java)|
 |Strings|Easy|[Java Substring](https://www.hackerrank.com/challenges/java-string-compare/problem)|[JavaSubstringComparisons.java](java/JavaSubstringComparisons.java)|
 |Strings|Easy|[Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem)|[JavaStringReverse.java](java/JavaStringReverse.java)|
+|Strings|Easy|[Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem)|[JavaAnagrams.java](java/JavaAnagrams.java)|

@@ -64,3 +64,4 @@ Currently im doing:
 |Strings|Easy|[Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem)|[JavaStringReverse.java](java/JavaStringReverse.java)|
 |Strings|Easy|[Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem)|[JavaAnagrams.java](java/JavaAnagrams.java)|
 |Strings|Easy|[Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem)|[JavaStringTokens.java](java/JavaStringTokens.java)|
+|Strings|Easy|[Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem)|[PatternSyntaxChecker.java](java/PatternSyntaxChecker.java)|

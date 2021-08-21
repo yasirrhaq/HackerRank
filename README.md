@@ -65,3 +65,4 @@ Currently im doing:
 |Strings|Easy|[Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem)|[JavaAnagrams.java](java/JavaAnagrams.java)|
 |Strings|Easy|[Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem)|[JavaStringTokens.java](java/JavaStringTokens.java)|
 |Strings|Easy|[Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem)|[PatternSyntaxChecker.java](java/PatternSyntaxChecker.java)|
+|Strings|Easy|[Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker/problem)|[ValidUsernameRegularExpression.java](java/ValidUsernameRegularExpression.java)|

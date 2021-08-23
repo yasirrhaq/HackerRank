@@ -68,3 +68,4 @@ Currently im doing:
 |Strings|Easy|[Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker/problem)|[ValidUsernameRegularExpression.java](java/ValidUsernameRegularExpression.java)|
 |Strings|Easy|[Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker/problem)|[ValidUsernameRegularExpression.java](java/ValidUsernameRegularExpression.java)|
 |BigNumber|Easy|[Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem)|[JavaPrimalityTest.java](java/JavaPrimalityTest.java)|
+|BigNumber|Easy|[Java Big Integer](https://www.hackerrank.com/challenges/java-biginteger/problem)|[JavaBigInteger.java](java/JavaBigInteger.java)|

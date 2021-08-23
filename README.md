@@ -66,6 +66,6 @@ Currently im doing:
 |Strings|Easy|[Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem)|[JavaStringTokens.java](java/JavaStringTokens.java)|
 |Strings|Easy|[Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem)|[PatternSyntaxChecker.java](java/PatternSyntaxChecker.java)|
 |Strings|Easy|[Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker/problem)|[ValidUsernameRegularExpression.java](java/ValidUsernameRegularExpression.java)|
-|Strings|Easy|[Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker/problem)|[ValidUsernameRegularExpression.java](java/ValidUsernameRegularExpression.java)|
 |BigNumber|Easy|[Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem)|[JavaPrimalityTest.java](java/JavaPrimalityTest.java)|
 |BigNumber|Easy|[Java Big Integer](https://www.hackerrank.com/challenges/java-biginteger/problem)|[JavaBigInteger.java](java/JavaBigInteger.java)|
+|Data Structures|Easy|[Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem)|[Java1DArray.java](java/Java1DArray.java)|

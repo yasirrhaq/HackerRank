@@ -74,4 +74,4 @@ Currently im doing:
 ## 10 Days of Javascript
 | Subdomain | Difficulty | Challenge | Solution |
 |:---------:|:----------:|:---------:|:--------:|
-|Practice|Tutorial|[Day 0: Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem)|[Day 0, Hello World!.js](10 Days of Javascript/Day 0, Hello World!.js)|
+|Practice|Tutorial|[Day 0: Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem)|[Day 0, Hello World!.js](https://github.com/yasirrhaq/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%200%20Hello%2C%20World!.js)|

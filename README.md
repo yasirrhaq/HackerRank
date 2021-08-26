@@ -75,3 +75,4 @@ Currently im doing:
 | Subdomain | Difficulty | Challenge | Solution |
 |:---------:|:----------:|:---------:|:--------:|
 |Practice|Tutorial|[Day 0: Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem)|[Day 0, Hello World!.js](https://github.com/yasirrhaq/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%200%20Hello%2C%20World!.js)|
+|Practice|Tutorial|[Day 0: Data Types](https://www.hackerrank.com/challenges/js10-data-types/problem)|[Day 0, Data Types.js](https://github.com/yasirrhaq/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%200%20Data%20Types.js)|

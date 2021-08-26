@@ -4,6 +4,7 @@ This is my solutions to [HackerRank](https://www.hackerrank.com) problems using 
 Currently im doing:
 * [Algorithms](#algorithms)
 * [Java](#java)
+* [10 Days of Javascript](https://github.com/yasirrhaq/HackerRank/tree/main/10%20Days%20of%20Javascript)
 
 ## Algorithms
 | Subdomain | Difficulty | Challenge | Solution |
@@ -69,3 +70,8 @@ Currently im doing:
 |BigNumber|Easy|[Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem)|[JavaPrimalityTest.java](java/JavaPrimalityTest.java)|
 |BigNumber|Easy|[Java Big Integer](https://www.hackerrank.com/challenges/java-biginteger/problem)|[JavaBigInteger.java](java/JavaBigInteger.java)|
 |Data Structures|Easy|[Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem)|[Java1DArray.java](java/Java1DArray.java)|
+
+## 10 Days of Javascript
+| Subdomain | Difficulty | Challenge | Solution |
+|:---------:|:----------:|:---------:|:--------:|
+|Practice|Tutorial|[Day 0: Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem)|[Day 0, Hello World!.js](https://github.com/yasirrhaq/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%200%20Hello%2C%20World!.js)|

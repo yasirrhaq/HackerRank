@@ -1,5 +1,5 @@
 # HackerRank
-This is my solutions to [HackerRank](https://www.hackerrank.com) problems using java, might not be the best solution but at least i tried :ghost:
+This is my solutions to [HackerRank](https://www.hackerrank.com) problems using java and other language, might not be the best solution but at least i tried :ghost:
 
 Currently im doing:
 * [Algorithms](#algorithms)

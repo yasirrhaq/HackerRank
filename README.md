@@ -70,6 +70,7 @@ Currently im doing:
 |BigNumber|Easy|[Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem)|[JavaPrimalityTest.java](java/JavaPrimalityTest.java)|
 |BigNumber|Easy|[Java Big Integer](https://www.hackerrank.com/challenges/java-biginteger/problem)|[JavaBigInteger.java](java/JavaBigInteger.java)|
 |Data Structures|Easy|[Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem)|[Java1DArray.java](java/Java1DArray.java)|
+|Data Structures|Easy|[Java List](https://www.hackerrank.com/challenges/java-list/problem)|[JavaList.java](java/JavaList.java)|
 
 ## 10 Days of Javascript
 | Subdomain | Difficulty | Challenge | Solution |
@@ -83,3 +84,4 @@ Currently im doing:
 |Practice|Tutorial|[Day 2: Conditional Statements: Switch](https://www.hackerrank.com/challenges/js10-switch/problem)|[Day 2, Conditional Statements, Switch.js](https://github.com/yasirrhaq/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%202%2C%20Conditional%20Statements%2C%20Switch.js)|
 |Practice|Tutorial|[Day 2: Loops](https://www.hackerrank.com/challenges/js10-loops/problem)|[Day 2, Loops.js](https://github.com/yasirrhaq/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%202%2C%20Loops.js)|
 |Practice|Tutorial|[Day 3: Arrays](https://www.hackerrank.com/challenges/js10-arrays/problem)|[Day 3, Arrays.js](https://github.com/yasirrhaq/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%203%2C%20Arrays.js)|
+|Practice|Tutorial|[Day 3: Try, Catch, and Finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem)|[Day 3, Try, Catch, and Finally.js](https://github.com/yasirrhaq/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%203%2C%20Try%2C%20Catch%2C%20and%20Finally.js)|
